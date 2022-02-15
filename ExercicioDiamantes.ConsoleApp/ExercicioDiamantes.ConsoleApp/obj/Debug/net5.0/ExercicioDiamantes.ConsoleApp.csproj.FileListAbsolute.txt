@@ -1,0 +1,16 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\ExercicioDiamantes.ConsoleApp\ExercicioDiamantes.ConsoleApp\bin\Debug\net5.0\ExercicioDiamantes.ConsoleApp.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\ExercicioDiamantes.ConsoleApp\ExercicioDiamantes.ConsoleApp\bin\Debug\net5.0\ExercicioDiamantes.ConsoleApp.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\ExercicioDiamantes.ConsoleApp\ExercicioDiamantes.ConsoleApp\bin\Debug\net5.0\ExercicioDiamantes.ConsoleApp.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\ExercicioDiamantes.ConsoleApp\ExercicioDiamantes.ConsoleApp\bin\Debug\net5.0\ExercicioDiamantes.ConsoleApp.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\ExercicioDiamantes.ConsoleApp\ExercicioDiamantes.ConsoleApp\bin\Debug\net5.0\ExercicioDiamantes.ConsoleApp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\ExercicioDiamantes.ConsoleApp\ExercicioDiamantes.ConsoleApp\bin\Debug\net5.0\ref\ExercicioDiamantes.ConsoleApp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\ExercicioDiamantes.ConsoleApp\ExercicioDiamantes.ConsoleApp\bin\Debug\net5.0\ExercicioDiamantes.ConsoleApp.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\ExercicioDiamantes.ConsoleApp\ExercicioDiamantes.ConsoleApp\obj\Debug\net5.0\ExercicioDiamantes.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\ExercicioDiamantes.ConsoleApp\ExercicioDiamantes.ConsoleApp\obj\Debug\net5.0\ExercicioDiamantes.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\ExercicioDiamantes.ConsoleApp\ExercicioDiamantes.ConsoleApp\obj\Debug\net5.0\ExercicioDiamantes.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\ExercicioDiamantes.ConsoleApp\ExercicioDiamantes.ConsoleApp\obj\Debug\net5.0\ExercicioDiamantes.ConsoleApp.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\ExercicioDiamantes.ConsoleApp\ExercicioDiamantes.ConsoleApp\obj\Debug\net5.0\ExercicioDiamantes.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\ExercicioDiamantes.ConsoleApp\ExercicioDiamantes.ConsoleApp\obj\Debug\net5.0\ExercicioDiamantes.ConsoleApp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\ExercicioDiamantes.ConsoleApp\ExercicioDiamantes.ConsoleApp\obj\Debug\net5.0\ref\ExercicioDiamantes.ConsoleApp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\ExercicioDiamantes.ConsoleApp\ExercicioDiamantes.ConsoleApp\obj\Debug\net5.0\ExercicioDiamantes.ConsoleApp.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\ExercicioDiamantes.ConsoleApp\ExercicioDiamantes.ConsoleApp\obj\Debug\net5.0\ExercicioDiamantes.ConsoleApp.genruntimeconfig.cache
